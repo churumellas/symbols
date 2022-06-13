@@ -3,3 +3,5 @@
 > sudo apt install xclip
 
 > Tested on linux Xubuntu 20.04
+
+> run `python symbos.py`
