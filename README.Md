@@ -4,4 +4,4 @@
 
 > Tested on linux Xubuntu 20.04
 
-> run `python symbos.py`
+> run `python symbols.py`
